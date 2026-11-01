@@ -1,0 +1,80 @@
+{
+  "channel_url": "https://www.youtube.com/@ytca-pilot-dummy",
+  "items": [
+    {
+      "kind": "videos",
+      "file": "videos.tsv",
+      "note": "pilot dummy list"
+    },
+    {
+      "kind": "material",
+      "video": "PILOTvid001",
+      "type": "manual_notes",
+      "file": "materials/PILOTvid001.md",
+      "coverage": "FULL"
+    },
+    {
+      "kind": "material",
+      "video": "PILOTvid002",
+      "type": "manual_notes",
+      "file": "materials/PILOTvid002.md",
+      "coverage": "FULL"
+    },
+    {
+      "kind": "material",
+      "video": "PILOTvid003",
+      "type": "notebooklm_summary",
+      "file": "materials/PILOTvid003.md",
+      "coverage": "UNKNOWN",
+      "human_reviewed": true
+    },
+    {
+      "kind": "material",
+      "video": "PILOTvid004",
+      "type": "creator_article",
+      "file": "materials/PILOTvid004.md",
+      "coverage": "PARTIAL",
+      "source_url": "https://note.com/dummy_creator/n/n0000000000"
+    },
+    {
+      "kind": "material",
+      "video": "PILOTvid005",
+      "type": "authorized_transcript",
+      "file": "materials/PILOTvid005.md",
+      "coverage": "FULL",
+      "permission_note": "テスト用の架空データ（実在の許可ではない）"
+    },
+    {
+      "kind": "analysis",
+      "video": "PILOTvid001",
+      "file": "analyses/PILOTvid001.json"
+    },
+    {
+      "kind": "analysis",
+      "video": "PILOTvid002",
+      "file": "analyses/PILOTvid002.json"
+    },
+    {
+      "kind": "analysis",
+      "video": "PILOTvid003",
+      "file": "analyses/PILOTvid003.json"
+    },
+    {
+      "kind": "analysis",
+      "video": "PILOTvid004",
+      "file": "analyses/PILOTvid004.json"
+    },
+    {
+      "kind": "analysis",
+      "video": "PILOTvid005",
+      "file": "analyses/PILOTvid005.json"
+    },
+    {
+      "kind": "status",
+      "video": "PILOTvid006",
+      "status": "ON_HOLD",
+      "reason": "材料未入手（NotebookLM 未登録）"
+    }
+  ],
+  "_comment": "架空データのみ（実在チャンネルの内容ではない）"
+}

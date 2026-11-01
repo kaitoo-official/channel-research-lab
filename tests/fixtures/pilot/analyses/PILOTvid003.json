@@ -1,0 +1,34 @@
+{
+  "video_id": "PILOTvid003",
+  "summary": "価格の付け方（架空・AI要約のみ）。",
+  "claims": [
+    {
+      "id": "C1",
+      "text": "最初から適正価格で出すべきで低単価は避ける",
+      "category": "opinion",
+      "presentation": "STATED",
+      "material_ids": [
+        "M01"
+      ],
+      "topic_key": "early-pricing",
+      "position": "最初から適正価格",
+      "timestamp": "3:00"
+    },
+    {
+      "id": "C2",
+      "text": "提案の冒頭で課題を言い換える",
+      "category": "method",
+      "presentation": "STATED",
+      "material_ids": [
+        "M01"
+      ],
+      "topic_key": "proposal-opening"
+    }
+  ],
+  "evidence": [],
+  "principles": [],
+  "tests": [],
+  "limitations": [
+    "AI 要約のみで人の視聴確認なし"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "video_id": "PILOTvid001",
+  "summary": "提案の冒頭と初期の価格戦略についての動画（架空）。",
+  "claims": [
+    {
+      "id": "C1",
+      "text": "提案文の冒頭で相手の課題を言い換えると返信が増える",
+      "category": "method",
+      "presentation": "STATED",
+      "material_ids": [
+        "M01"
+      ],
+      "topic_key": "proposal-opening",
+      "timestamp": "1:20"
+    },
+    {
+      "id": "C2",
+      "text": "実績が無い時期は低単価でも評価集めを優先する",
+      "category": "opinion",
+      "presentation": "STATED",
+      "material_ids": [
+        "M01"
+      ],
+      "topic_key": "early-pricing",
+      "position": "低単価で実績優先"
+    }
+  ],
+  "evidence": [],
+  "principles": [
+    {
+      "id": "P1",
+      "statement": "相手の言葉で課題を言い直すと信頼が生まれる",
+      "derived_from": [
+        "C1"
+      ],
+      "status": "HYPOTHESIS"
+    }
+  ],
+  "tests": [
+    {
+      "target": "kaitoo-works",
+      "principle_id": "P1",
+      "variable": "提案文の1行目",
+      "hypothesis": "課題を言い換えると返信率が上がる",
+      "metric": "返信率",
+      "success": "10件中2件以上返信",
+      "stop_rule": "20件で差が無ければ終了",
+      "kept_constant": [
+        "応募する媒体",
+        "価格"
+      ],
+      "status": "PROPOSED"
+    }
+  ],
+  "limitations": [
+    "架空データ"
+  ]
+}

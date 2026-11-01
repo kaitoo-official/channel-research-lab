@@ -1,0 +1,38 @@
+{
+  "video_id": "PILOTvid002",
+  "summary": "提案の書き方と応募数の話（架空）。",
+  "claims": [
+    {
+      "id": "C1",
+      "text": "提案冒頭で相手の課題を自分の言葉で言い換えるべき",
+      "category": "method",
+      "presentation": "STATED",
+      "material_ids": [
+        "M01"
+      ],
+      "topic_key": "proposal-opening"
+    },
+    {
+      "id": "C2",
+      "text": "応募は1日10件が目安と本人が述べている",
+      "category": "work_time",
+      "presentation": "STATED",
+      "material_ids": [
+        "M01"
+      ],
+      "verification": "CONFIRMED",
+      "verification_required": true
+    }
+  ],
+  "evidence": [
+    {
+      "claim_id": "C2",
+      "kind": "SPOKEN",
+      "supports": true,
+      "note": "本人の自己申告"
+    }
+  ],
+  "principles": [],
+  "tests": [],
+  "limitations": []
+}

@@ -1,0 +1,29 @@
+{
+  "video_id": "PILOTvid004",
+  "summary": "手数料を前提にした価格設定（架空記事）。",
+  "claims": [
+    {
+      "id": "C1",
+      "text": "媒体手数料20%を前提に価格を決める",
+      "category": "price",
+      "presentation": "STATED",
+      "material_ids": [
+        "M01"
+      ],
+      "verification": "CONFIRMED",
+      "verification_required": true
+    }
+  ],
+  "evidence": [
+    {
+      "claim_id": "C1",
+      "kind": "PRIMARY_SOURCE",
+      "source_url": "https://note.com/dummy_creator/n/n0000000001",
+      "supports": true,
+      "independent_verification": false
+    }
+  ],
+  "principles": [],
+  "tests": [],
+  "limitations": []
+}

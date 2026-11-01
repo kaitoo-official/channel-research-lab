@@ -1,0 +1,20 @@
+{
+  "video_id": "PILOTvid005",
+  "summary": "テンプレート提案の弊害（架空字幕）。",
+  "claims": [
+    {
+      "id": "C1",
+      "text": "提案テンプレートの使い回しは返信率を下げる",
+      "category": "method",
+      "presentation": "STATED",
+      "material_ids": [
+        "M01"
+      ],
+      "topic_key": "template-reuse"
+    }
+  ],
+  "evidence": [],
+  "principles": [],
+  "tests": [],
+  "limitations": []
+}

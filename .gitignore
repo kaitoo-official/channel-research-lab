@@ -1,0 +1,8 @@
+# analysis data (human notes, summaries, possibly third-party material) stays local
+data/
+__pycache__/
+*.pyc
+.env
+.env.*
+.claude/settings.local.json
+config/api_consent.json
