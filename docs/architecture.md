@@ -1,4 +1,4 @@
-# Architecture — YouTube Channel Analyze
+# Architecture — Channel Research Lab
 
 ```
 人（ブラウザで普通に視聴・NotebookLM に手で登録・メモを書く）

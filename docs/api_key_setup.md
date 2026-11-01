@@ -46,7 +46,7 @@
 - YouTube 利用規約：https://www.youtube.com/t/terms ／ Google プライバシーポリシー：https://policies.google.com/privacy
 
 ## D. 確認接続（Claude が行う・本人の「API 確認接続をして」のあと）
-13. Claude が `python -m crl_net.run_sync らんさーず --i-approve-network --budget 20` を **1 回だけ**実行（既定は API が返す件数と取得状況だけ表示。一覧は保存しない）
+13. Claude が `python -m crl_net.run_sync example-channel --i-approve-network --budget 20` を **1 回だけ**実行（既定は API が返す件数と取得状況だけ表示。一覧は保存しない）
     - 同意ファイル・`--i-approve-network`・環境変数のどれかが欠けたら送信せずに止まる
     - キーは画面・ログ・エラーに出ない（テスト済み）
 14. 結果（件数・使った units・エラーの種類）を報告。失敗しても自動で再試行しない
